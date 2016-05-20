@@ -1,2 +1,2 @@
 # mirador-project
-Client-facing repository mainly for issues and documentations
+Client-facing repository mainly for cross-repository issues documentations
