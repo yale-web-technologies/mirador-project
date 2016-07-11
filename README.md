@@ -1,5 +1,5 @@
 # mirador-project
-Client-facing repository mainly for cross-repository issues and documentations
+Client-facing repository mainly for cross-repository [issues](https://github.com/yale-web-technologies/mirador-project/issues) and documentations
 
 ## Source repositories
 
