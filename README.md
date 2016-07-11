@@ -7,3 +7,4 @@ Client-facing repository mainly for cross-repository issues and documentations
 * Rails app hosting Mirador: https://github.com/yale-web-technologies/mirador_rails
 * Annotation service: https://github.com/yale-web-technologies/mirador-annotations
  
+## Check out the [wiki](https://github.com/yale-web-technologies/mirador-project/wiki) for documentations.
