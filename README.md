@@ -4,6 +4,7 @@ Client-facing repository mainly for cross-repository [issues](https://github.com
 ## Source repositories
 
 * Yale fork of Mirador: https://github.com/yale-web-technologies/mirador
+* Yale extension of Mirador: https://github.com/yale-web-technologies/yale-mirador
 * Rails app hosting Mirador: https://github.com/yale-web-technologies/mirador_rails
 * Annotation service: https://github.com/yale-web-technologies/mirador-annotations
  
