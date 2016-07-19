@@ -1,0 +1,2330 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:Manifest",
+  "@id": "http://manifests.ydc2.yale.edu/iiif/DORC/manifest",
+  "label": "DORC",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "@id": "http://manifests.ydc2.yale.edu/DORC/sequence/s1",
+      "label": "Sequence 1",
+      "viewingDirection": "Left-to-Right",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-001",
+          "label": "Chapter 1, Page 1",
+          "width" : "2724",
+          "height": "3877",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC001-001-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-001",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-1-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2724",
+                "height": "3877",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-1-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        }, 
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-001",
+          "label": "Chapter 1, Page 2",
+          "width" : "2897",
+          "height": "4301",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC001-002-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-002",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-2-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2897",
+                "height": "4301",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-2-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        }, 
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-003",
+          "label": "Chapter 1, Page 3",
+          "width" : "2871",
+          "height": "4337",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC001-003-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-003",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-3-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2871",
+                "height": "4337",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-3-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        }, 
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-004",
+          "label": "Chapter 1, Page 4",
+          "width" : "2922",
+          "height": "4232",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC001-004-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-004",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-4-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2922",
+                "height": "4232",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-4-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        }, 
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-005",
+          "label": "Chapter 1, Page 5",
+          "width" : "2837",
+          "height": "4336",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC001-005-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-005",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-5-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2837",
+                "height": "4336",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-5-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-006",
+          "label": "Chapter 1, Page 6",
+          "width" : "2861",
+          "height": "4354",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC001-006-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-006",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-6-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2861",
+                "height": "4354",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-6-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-007",
+          "label": "Chapter 1, Page 7",
+          "width" : "2816",
+          "height": "4320",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC001-007-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-007",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-7-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2816",
+                "height": "4320",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-7-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-008",
+          "label": "Chapter 1, Page 8",
+          "width" : "2830",
+          "height": "4249",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC001-008-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-008",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-8-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2830",
+                "height": "4249",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-8-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-009",
+          "label": "Chapter 1, Page 9",
+          "width" : "2874",
+          "height": "4392",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC001-009-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-009",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-9-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2874",
+                "height": "4392",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-9-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-010",
+          "label": "Chapter 1, Page 10",
+          "width" : "2833",
+          "height": "4313",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC001-010-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-010",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-10-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2833",
+                "height": "4313",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-10-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-011",
+          "label": "Chapter 1, Page 11",
+          "width" : "2845",
+          "height": "4344",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC001-011-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-011",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-11-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2845",
+                "height": "4344",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-11-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-012",
+          "label": "Chapter 1, Page 12",
+          "width" : "2866",
+          "height": "4349",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC001-012-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-012",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-12-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2866",
+                "height": "4349",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-12-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-013",
+          "label": "Chapter 1, Page 13",
+          "width" : "2849",
+          "height": "4274",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC001-013-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-013",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-13-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2849",
+                "height": "4274",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-13-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-014",
+          "label": "Chapter 1, Page 14",
+          "width" : "2835",
+          "height": "4336",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC001-014-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-014",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-14-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2835",
+                "height": "4336",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-14-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-015",
+          "label": "Chapter 1, Page 15",
+          "width" : "2765",
+          "height": "4284",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC001-015-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-015",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-15-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2765",
+                "height": "4284",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-15-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-016",
+          "label": "Chapter 1, Page 16",
+          "width" : "2858",
+          "height": "4327",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC001-016-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-016",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-16-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2858",
+                "height": "4327",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-16-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-017",
+          "label": "Chapter 1, Page 17",
+          "width" : "2792",
+          "height": "4266",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC001-017-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-017",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-17-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2792",
+                "height": "4266",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-17-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-018",
+          "label": "Chapter 1, Page 18",
+          "width" : "2813",
+          "height": "3836",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC001-018-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC001-018",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-18-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2792",
+                "height": "4266",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC1-18-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-001",
+          "label": "Chapter 2, Page 1",
+          "width" : "2550",
+          "height": "3859",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC002-001-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-001",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-1-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2550",
+                "height": "3859",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-1-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-002",
+          "label": "Chapter 2, Page 2",
+          "width" : "2879",
+          "height": "4261",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC002-002-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-002",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-2-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2879",
+                "height": "4261",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-2-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-003",
+          "label": "Chapter 2, Page 3",
+          "width" : "2862",
+          "height": "4264",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC002-003-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-003",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-3-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2862",
+                "height": "4264",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-3-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-004",
+          "label": "Chapter 2, Page 4",
+          "width" : "2876",
+          "height": "4310",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC002-004-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-004",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-4-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2876",
+                "height": "4310",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-4-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-005",
+          "label": "Chapter 2, Page 5",
+          "width" : "2789",
+          "height": "4271",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC002-005-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-005",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-5-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2789",
+                "height": "4271",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-5-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-006",
+          "label": "Chapter 2, Page 6",
+          "width" : "2860",
+          "height": "4294",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC002-006-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-006",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-6-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2860",
+                "height": "4294",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-6-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-007",
+          "label": "Chapter 2, Page 7",
+          "width" : "2800",
+          "height": "4218",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC002-007-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-007",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-7-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2860",
+                "height": "4294",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-7-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-008",
+          "label": "Chapter 2, Page 8",
+          "width" : "2857",
+          "height": "4366",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC002-008-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-008",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-8-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2857",
+                "height": "4366",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-8-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-009",
+          "label": "Chapter 2, Page 9",
+          "width" : "2801",
+          "height": "4295",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC002-009-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-009",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-9-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2857",
+                "height": "4366",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-9-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-010",
+          "label": "Chapter 2, Page 10",
+          "width" : "2807",
+          "height": "4264",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC002-010-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-010",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-10-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2807",
+                "height": "4264",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-10-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-011",
+          "label": "Chapter 2, Page 11",
+          "width" : "2811",
+          "height": "4238",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC002-011-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-011",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-11-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2811",
+                "height": "4238",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-11-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-012",
+          "label": "Chapter 2, Page 12",
+          "width" : "2842",
+          "height": "4278",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC002-012-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-012",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-12-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2842",
+                "height": "4278",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-12-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-013",
+          "label": "Chapter 2, Page 13",
+          "width" : "2875",
+          "height": "4272",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC002-013-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-013",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-13-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2875",
+                "height": "4272",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-13-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-014",
+          "label": "Chapter 2, Page 14",
+          "width" : "2838",
+          "height": "3689",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC002-014-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC002-014",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-14-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2838",
+                "height": "3689",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC2-14-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-001",
+          "label": "Chapter 3, Page 1",
+          "width" : "2623",
+          "height": "3912",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-001-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-001",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-1-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2623",
+                "height": "3912",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-1-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-002",
+          "label": "Chapter 3, Page 2",
+          "width" : "2570",
+          "height": "3766",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-002-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-002",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-2-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2570",
+                "height": "3766",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-2-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-003",
+          "label": "Chapter 3, Page 3",
+          "width" : "2876",
+          "height": "4228",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-003-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-003",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-3-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2876",
+                "height": "4228",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-3-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-004",
+          "label": "Chapter 3, Page 4",
+          "width" : "2879",
+          "height": "4249",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-004-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-004",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-4-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2879",
+                "height": "4249",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-4-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-005",
+          "label": "Chapter 3, Page 5",
+          "width" : "2799",
+          "height": "4321",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-005-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-005",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-5-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2799",
+                "height": "4321",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-5-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-006",
+          "label": "Chapter 3, Page 6",
+          "width" : "2827",
+          "height": "4261",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-006-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-006",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-6-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2827",
+                "height": "4261",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-6-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-007",
+          "label": "Chapter 3, Page 7",
+          "width" : "2805",
+          "height": "4253",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-007-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-007",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-7-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2805",
+                "height": "4253",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-7-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-008",
+          "label": "Chapter 3, Page 8",
+          "width" : "2836",
+          "height": "4241",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-008-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-008",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-8-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2836",
+                "height": "4241",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-8-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-009",
+          "label": "Chapter 3, Page 9",
+          "width" : "2804",
+          "height": "4298",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-009-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-009",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-9-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2804",
+                "height": "4298",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-9-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-010",
+          "label": "Chapter 3, Page 10",
+          "width" : "2774",
+          "height": "4261",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-010-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-010",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-10-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2774",
+                "height": "4261",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-10-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-011",
+          "label": "Chapter 3, Page 11",
+          "width" : "2806",
+          "height": "4286",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-011-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-011",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-11-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2806",
+                "height": "4286",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-11-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-012",
+          "label": "Chapter 3, Page 12",
+          "width" : "2843",
+          "height": "4284",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-012-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-012",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-12-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2843",
+                "height": "4284",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-12-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-013",
+          "label": "Chapter 3, Page 13",
+          "width" : "2786",
+          "height": "4346",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-013-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-013",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-13-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2786",
+                "height": "4346",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-13-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-014",
+          "label": "Chapter 3, Page 14",
+          "width" : "2828",
+          "height": "4226",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-014-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-014",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-14-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2828",
+                "height": "4226",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-14-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-015",
+          "label": "Chapter 3, Page 15",
+          "width" : "2853",
+          "height": "4318",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-015-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-015",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-15-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2853",
+                "height": "4318",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-15-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-016",
+          "label": "Chapter 3, Page 16",
+          "width" : "2871",
+          "height": "4248",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-016-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-016",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-16-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2871",
+                "height": "4248",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-16-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-017",
+          "label": "Chapter 3, Page 17",
+          "width" : "2845",
+          "height": "4282",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-017-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-017",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-17-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2845",
+                "height": "4282",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-17-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-018",
+          "label": "Chapter 3, Page 18",
+          "width" : "2837",
+          "height": "4289",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-018-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-018",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-18-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2837",
+                "height": "4289",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-18-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-019",
+          "label": "Chapter 3, Page 19",
+          "width" : "2881",
+          "height": "3728",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-019-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-019",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-19-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2881",
+                "height": "3728",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-19-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-020",
+          "label": "Chapter 3, Page 20",
+          "width" : "2827",
+          "height": "3704",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC003-020-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC003-020",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-20-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2827",
+                "height": "3704",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC3-20-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-001",
+          "label": "Chapter 4, Page 1",
+          "width" : "2572",
+          "height": "3822",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC004-001-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-001",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-1-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2572",
+                "height": "3822",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-1-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-002",
+          "label": "Chapter 4, Page 2",
+          "width" : "2611",
+          "height": "3855",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC004-002-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-002",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-2-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2611",
+                "height": "3855",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-2-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-003",
+          "label": "Chapter 4, Page 3",
+          "width" : "2798",
+          "height": "4305",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC004-003-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-003",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-3-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2798",
+                "height": "4305",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-3-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-004",
+          "label": "Chapter 4, Page 4",
+          "width" : "2872",
+          "height": "4259",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC004-004-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-004",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-4-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2872",
+                "height": "4259",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-4-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-005",
+          "label": "Chapter 4, Page 5",
+          "width" : "2834",
+          "height": "4369",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC004-005-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-005",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-5-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2834",
+                "height": "4369",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-5-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-006",
+          "label": "Chapter 4, Page 6",
+          "width" : "2852",
+          "height": "4275",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC004-006-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-006",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-6-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2852",
+                "height": "4275",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-6-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-007",
+          "label": "Chapter 4, Page 7",
+          "width" : "2823",
+          "height": "4342",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC004-007-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-007",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-7-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2823",
+                "height": "4342",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-7-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-008",
+          "label": "Chapter 4, Page 8",
+          "width" : "2840",
+          "height": "4265",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC004-008-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-008",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-8-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2840",
+                "height": "4265",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-8-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-009",
+          "label": "Chapter 4, Page 9",
+          "width" : "2815",
+          "height": "4260",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC004-009-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-009",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-9-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2815",
+                "height": "4260",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-9-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-010",
+          "label": "Chapter 4, Page 10",
+          "width" : "2863",
+          "height": "4221",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC004-010-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-010",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-10-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2863",
+                "height": "4221",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-10-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-011",
+          "label": "Chapter 4, Page 11",
+          "width" : "2863",
+          "height": "4342",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC004-011-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-011",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-11-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2863",
+                "height": "4342",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-11-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-012",
+          "label": "Chapter 4, Page 12",
+          "width" : "2844",
+          "height": "4283",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC004-012-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-012",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-12-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2844",
+                "height": "4283",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-12-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-013",
+          "label": "Chapter 4, Page 13",
+          "width" : "2815",
+          "height": "4294",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC004-013-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-013",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-13-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2815",
+                "height": "4294",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-13-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-014",
+          "label": "Chapter 4, Page 14",
+          "width" : "2846",
+          "height": "4219",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC004-014-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-014",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-14-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2846",
+                "height": "4219",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-14-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-015",
+          "label": "Chapter 4, Page 15",
+          "width" : "2826",
+          "height": "4314",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC004-015-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC004-015",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-15-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2826",
+                "height": "4314",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC4-15-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-001",
+          "label": "Chapter 5, Page 1",
+          "width" : "2641",
+          "height": "3773",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-001-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-001",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-1-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2641",
+                "height": "3773",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-1-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-002",
+          "label": "Chapter 5, Page 2",
+          "width" : "2666",
+          "height": "3743",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-002-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-002",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-2-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2666",
+                "height": "3743",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-2-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-003",
+          "label": "Chapter 5, Page 3",
+          "width" : "2837",
+          "height": "4272",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-003-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-003",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-3-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2837",
+                "height": "4272",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-3-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-004",
+          "label": "Chapter 5, Page 4",
+          "width" : "2829",
+          "height": "4212",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-004-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-004",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-4-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2829",
+                "height": "4212",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-4-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-005",
+          "label": "Chapter 5, Page 5",
+          "width" : "2820",
+          "height": "4316",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-005-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-005",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-5-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2820",
+                "height": "4316",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-5-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-006",
+          "label": "Chapter 5, Page 6",
+          "width" : "2851",
+          "height": "4264",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-006-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-006",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-6-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2851",
+                "height": "4264",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-6-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-007",
+          "label": "Chapter 5, Page 7",
+          "width" : "2827",
+          "height": "4286",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-007-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-007",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-7-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2827",
+                "height": "4286",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-7-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-008",
+          "label": "Chapter 5, Page 8",
+          "width" : "2865",
+          "height": "4279",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-008-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-008",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-8-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2865",
+                "height": "4279",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-8-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-009",
+          "label": "Chapter 5, Page 9",
+          "width" : "2838",
+          "height": "4291",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-009-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-009",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-9-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2838",
+                "height": "4291",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-9-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-010",
+          "label": "Chapter 5, Page 10",
+          "width" : "2821",
+          "height": "4286",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-010-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-010",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-10-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2821",
+                "height": "4286",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-10-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-011",
+          "label": "Chapter 5, Page 11",
+          "width" : "2819",
+          "height": "4262",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-011-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-011",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-11-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2819",
+                "height": "4262",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-11-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-012",
+          "label": "Chapter 5, Page 12",
+          "width" : "2841",
+          "height": "4282",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-012-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-012",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-12-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2841",
+                "height": "4282",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-12-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-013",
+          "label": "Chapter 5, Page 13",
+          "width" : "2831",
+          "height": "4323",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-013-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-013",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-13-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2831",
+                "height": "4323",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-13-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-014",
+          "label": "Chapter 5, Page 14",
+          "width" : "2815",
+          "height": "4207",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-014-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-014",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-14-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2815",
+                "height": "4207",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-14-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-015",
+          "label": "Chapter 5, Page 15",
+          "width" : "2805",
+          "height": "4248",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-015-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-015",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-15-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2805",
+                "height": "4248",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-15-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-016",
+          "label": "Chapter 5, Page 16",
+          "width" : "2823",
+          "height": "4233",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-016-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-016",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-16-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2823",
+                "height": "4233",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-16-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-017",
+          "label": "Chapter 5, Page 17",
+          "width" : "2823",
+          "height": "4266",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-017-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-017",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-17-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2823",
+                "height": "4266",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-17-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-018",
+          "label": "Chapter 5, Page 18",
+          "width" : "2821",
+          "height": "4263",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-018-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-018",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-18-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2821",
+                "height": "4263",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-18-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-019",
+          "label": "Chapter 5, Page 19",
+          "width" : "2862",
+          "height": "4297",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-019-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-019",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-19-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2862",
+                "height": "4297",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-19-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-020",
+          "label": "Chapter 5, Page 20",
+          "width" : "2825",
+          "height": "4300",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-020-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-020",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-20-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2825",
+                "height": "4300",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-20-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-021",
+          "label": "Chapter 5, Page 21",
+          "width" : "2839",
+          "height": "3791",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-021-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-021",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-21-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2839",
+                "height": "3791",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-21-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-022",
+          "label": "Chapter 5, Page 22",
+          "width" : "2851",
+          "height": "3815",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/DORC/annotation/DORC005-022-tif",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/DORC/canvas/DORC005-022",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-22-tif/full/full/0/native.jpg",
+                "format": "image/jpeg",
+                "width": "2851",
+                "height": "3815",
+                "service": {
+                  "@id": "http://iiif-dev-10kr-1728262279.us-east-1.elb.amazonaws.com/iiif/DORC5-22-tif/",
+                  "dcterms:conformsTo": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
