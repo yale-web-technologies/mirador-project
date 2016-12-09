@@ -1,0 +1,125 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:Manifest",
+  "@id": "http://manifests.ydc2.yale.edu/iiif/LOTB/manifest",
+  "label": "Life of the Buddha",
+
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "@id": "http://manifests.ydc2.yale.edu/LOTB/sequence/s1",
+      "label": "Sequence 1",
+      "viewingDirection": "Left-to-Right",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/LOTB/canvas/panel_01_test",
+          "label": "Panel 1 (test)",
+          "width" : "30000",
+          "height": "10495",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/LOTB/annotation/panel01-jpg",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/LOTB/canvas/panel_01_test",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://common-iiif-2096085979.us-east-1.elb.amazonaws.com/loris/A2_5.jp2/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "width": "30000",
+                "height": "10495",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://common-iiif-2096085979.us-east-1.elb.amazonaws.com/loris/A2_5.jp2/",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/LOTB/canvas/panel_02_test",
+          "label": "Panel 2 (test)",
+          "width" : "19712",
+          "height": "13562",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/LOTB/annotation/bv11-jpg",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/LOTB/canvas/panel_02_test",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://common-iiif-2096085979.us-east-1.elb.amazonaws.com/loris/Bv11.jp2/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "width": "19712",
+                "height": "13562",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://common-iiif-2096085979.us-east-1.elb.amazonaws.com/loris/Bv11.jp2/",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/LOTB/canvas/panel_01",
+          "label": "Panel 1",
+          "width" : "30000",
+          "height": "10495",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/LOTB/annotation/panel01-jpg",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/LOTB/canvas/panel_01",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://common-iiif-2096085979.us-east-1.elb.amazonaws.com/loris/A2_5.jp2/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "width": "30000",
+                "height": "10495",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://common-iiif-2096085979.us-east-1.elb.amazonaws.com/loris/A2_5.jp2/",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://manifests.ydc2.yale.edu/LOTB/canvas/bv11",
+          "label": "Panel 2",
+          "width" : "19712",
+          "height": "13562",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "http://manifests.ydc2.yale.edu/LOTB/annotation/bv11-jpg",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/LOTB/canvas/bv11",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "http://common-iiif-2096085979.us-east-1.elb.amazonaws.com/loris/Bv11.jp2/full/full/0/default.jpg",
+                "format": "image/jpeg",
+                "width": "19712",
+                "height": "13562",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://common-iiif-2096085979.us-east-1.elb.amazonaws.com/loris/Bv11.jp2/",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
