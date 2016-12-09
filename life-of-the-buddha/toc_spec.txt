@@ -17,7 +17,9 @@
       { "tag" : "chapter13", "label": "Chapter 13", "short": "13" },
       { "tag" : "chapter14", "label": "Chapter 14", "short": "14" },
       { "tag" : "chapter15", "label": "Chapter 15", "short": "15" },
-      { "tag" : "chapter16", "label": "Chapter 17", "short": "18" },
+      { "tag" : "chapter16", "label": "Chapter 16", "short": "16" },
+      { "tag" : "chapter17", "label": "Chapter 17", "short": "17" },
+      { "tag" : "chapter18", "label": "Chapter 18", "short": "18" },
       { "tag" : "chapter19", "label": "Chapter 19", "short": "19" },
       { "tag" : "chapter20", "label": "Chapter 20", "short": "20" },
       { "tag" : "chapter21", "label": "Chapter 21", "short": "21" },
@@ -29,7 +31,12 @@
       { "tag" : "chapter27", "label": "Chapter 27", "short": "27" },
       { "tag" : "chapter28", "label": "Chapter 28", "short": "28" },
       { "tag" : "chapter29", "label": "Chapter 29", "short": "29" },
-      { "tag" : "chapter30", "label": "Chapter 30", "short": "30" }
+      { "tag" : "chapter30", "label": "Chapter 30", "short": "30" },
+      { "tag" : "chapter31", "label": "Chapter 31", "short": "31" },
+      { "tag" : "chapter32", "label": "Chapter 32", "short": "32" },
+      { "tag" : "chapter33", "label": "Chapter 33", "short": "33" },
+      { "tag" : "chapter34", "label": "Chapter 34", "short": "34" },
+      { "tag" : "chapter35", "label": "Chapter 35", "short": "35" }
     ], [
       { "tag" : "scene1", "label": "Scene 1", "short": "1" },
       { "tag" : "scene2", "label": "Scene 2", "short": "2" },
@@ -45,7 +52,12 @@
       { "tag" : "scene12", "label": "Scene 12", "short": "12" },
       { "tag" : "scene13", "label": "Scene 13", "short": "13" },
       { "tag" : "scene14", "label": "Scene 14", "short": "14" },
-      { "tag" : "scene15", "label": "Scene 15", "short": "15" }
+      { "tag" : "scene15", "label": "Scene 15", "short": "15" },
+      { "tag" : "scene16", "label": "Scene 16", "short": "16" },
+      { "tag" : "scene17", "label": "Scene 17", "short": "17" },
+      { "tag" : "scene18", "label": "Scene 18", "short": "18" },
+      { "tag" : "scene19", "label": "Scene 19", "short": "19" },
+      { "tag" : "scene20", "label": "Scene 20", "short": "20" }
     ]
   ]
 }
