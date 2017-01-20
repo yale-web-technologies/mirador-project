@@ -25,13 +25,13 @@
               "on": "http://manifests.ydc2.yale.edu/LOTB/canvas/panel_01_test",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "http://common-iiif-2096085979.us-east-1.elb.amazonaws.com/loris/A2_5.jp2/full/full/0/default.jpg",
+                "@id": "http://images.lifeofthebuddha.yale.edu/loris/lotb:A2_5.jp2/full/full/0/default.jpg",
                 "format": "image/jpeg",
                 "width": "30000",
                 "height": "10495",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://common-iiif-2096085979.us-east-1.elb.amazonaws.com/loris/A2_5.jp2/",
+                  "@id": "http://images.lifeofthebuddha.yale.edu/loris/lotb:A2_5.jp2/",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 }
               }
@@ -52,13 +52,13 @@
               "on": "http://manifests.ydc2.yale.edu/LOTB/canvas/panel_02_test",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "http://common-iiif-2096085979.us-east-1.elb.amazonaws.com/loris/Bv11.jp2/full/full/0/default.jpg",
+                "@id": "http://images.lifeofthebuddha.yale.edu/loris/lotb:Bv11.jp2/full/full/0/default.jpg",
                 "format": "image/jpeg",
                 "width": "19712",
                 "height": "13562",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://common-iiif-2096085979.us-east-1.elb.amazonaws.com/loris/Bv11.jp2/",
+                  "@id": "http://images.lifeofthebuddha.yale.edu/loris/lotb:Bv11.jp2/",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 }
               }
@@ -79,13 +79,13 @@
               "on": "http://manifests.ydc2.yale.edu/LOTB/canvas/panel_01",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "http://common-iiif-2096085979.us-east-1.elb.amazonaws.com/loris/A2_5.jp2/full/full/0/default.jpg",
+                "@id": "http://images.lifeofthebuddha.yale.edu/loris/lotb:A2_5.jp2/full/full/0/default.jpg",
                 "format": "image/jpeg",
                 "width": "30000",
                 "height": "10495",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://common-iiif-2096085979.us-east-1.elb.amazonaws.com/loris/A2_5.jp2/",
+                  "@id": "http://images.lifeofthebuddha.yale.edu/loris/lotb:A2_5.jp2/",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 }
               }
@@ -106,13 +106,13 @@
               "on": "http://manifests.ydc2.yale.edu/LOTB/canvas/bv11",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "http://common-iiif-2096085979.us-east-1.elb.amazonaws.com/loris/Bv11.jp2/full/full/0/default.jpg",
+                "@id": "http://images.lifeofthebuddha.yale.edu/loris/lotb:Bv11.jp2/full/full/0/default.jpg",
                 "format": "image/jpeg",
                 "width": "19712",
                 "height": "13562",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://common-iiif-2096085979.us-east-1.elb.amazonaws.com/loris/Bv11.jp2/",
+                  "@id": "http://images.lifeofthebuddha.yale.edu/loris/lotb:Bv11.jp2/",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 }
               }
